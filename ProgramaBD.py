@@ -4,7 +4,6 @@ import sqlite3
 
 raiz=Tk()
 raiz.title("Mi primer programa")
-#raiz.geometry("300x350")
 raiz.resizable(width=False, height=False)
 
 miframe=Frame(raiz)
